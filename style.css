@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  margin-top: 5rem;
+}
+
+.searchBox {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.pokemonBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  position: relative;
+}
+
+button {
+  background-color: yellow;
+}
